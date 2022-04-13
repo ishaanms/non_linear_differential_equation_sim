@@ -5,8 +5,8 @@ import TWOVARRSYS from './TWOVARRSYS';
 import THREEVARRSYS from './THREEVARRSYS';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleRight, faArrowDown, faCodeBranch} from '@fortawesome/free-solid-svg-icons';
-import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim-master/src/lotkavolterra-removebg-preview.png";
-import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim-master/src/iodine_clock_reaction.png";
+import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim/src/lotkavolterra-removebg-preview.png";
+import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim/src/iodine_clock_reaction.png";
 
 
 
@@ -28,7 +28,7 @@ function App() {
       <br/><br/><br/>
       <br/>
       <div className="twovarcont">
-      <div className="twovarimg"><img src="/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim-master/src/lotkavolterra-removebg-preview.png" alt="This is a 2 variable non linear differential equation."/></div>
+      <div className="twovarimg"><img src="/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim/src/lotkavolterra-removebg-preview.png" alt="This is a 2 variable non linear differential equation."/></div>
       <div className="twovartext">
         <p className="desc">This is a basic example of two variable non linear differential equation. These particular equations are also called <b>"lOTKA VOLTERRA EQUATIONS"</b>. According to these equations specifically,<br/><FontAwesomeIcon className="two-icon" icon={faAngleRight}/>x is the number of prey<br/><FontAwesomeIcon className="two-icon" icon={faAngleRight}/>y is the number of predator<br/><FontAwesomeIcon className="two-icon" icon={faAngleRight}/>dx/dt and dy/dt represent the instantaneous growth rates of the two populations;<br/><FontAwesomeIcon className="two-icon" icon={faAngleRight}/>t represents time;<br/><FontAwesomeIcon className="two-icon" icon={faAngleRight}/>a,b,c,d are positive real parameters describing the interaction of the two species.</p></div>
       </div>
@@ -49,7 +49,7 @@ function App() {
       <br/><br/><br/>
       <br/>
       <div className="twovarcont">
-      <div className="twovarimg"><img src="/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim-master/src/iodine_clock_reaction.png" alt="This is a 3 variable non linear differential equation."/></div>
+      <div className="twovarimg"><img src="/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim/src/iodine_clock_reaction.png" alt="This is a 3 variable non linear differential equation."/></div>
       <div className="twovartext">
         <p className="desc">This is a basic example of three variable non linear differential equation. These particular equations are used in <b>"IODINE CLOCK REACTIONS"</b>. According to these equations specifically,
         <br/><FontAwesomeIcon className="two-icon" icon={faAngleRight}/>x is the number of [I<sup>-</sup>]
