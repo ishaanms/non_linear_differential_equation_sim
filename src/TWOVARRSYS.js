@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import ReactDOM from 'react-dom';
 import { TextField,Button } from '@material-ui/core';
-import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim-master/src/chartstyle.css";
+import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim/src/chartstyle.css";
 import './App.css';
 import TWOVARCHART from './TWOVARCHART';
 const arrx=[];
