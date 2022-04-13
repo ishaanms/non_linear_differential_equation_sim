@@ -1,6 +1,6 @@
 import React from 'react';
 import { Line } from 'react-chartjs-2';
-import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim-master/src/chartstyle.css";
+import "/Users/ishaanmisra/Desktop/non_linear_differential_equation_sim/src/chartstyle.css";
 
 const arrx=[];
 const arry=[];
