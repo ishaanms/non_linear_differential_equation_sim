@@ -1,2 +1,2 @@
 This website can be viewed on:
-https://nonlineardiffeqnsim.netlify.app/
+https://nonlineardiffeqnsim.netlify.app
